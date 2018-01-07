@@ -1,0 +1,200 @@
+body,html{
+    height:100%;
+    padding:0px;margin:0px;
+    background-image:url(../img/fondo2.png);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.a{}
+.b{}
+.c{display:block !important}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+
+.d{
+    height:10%;
+    width:100%;
+    position:fixed;
+    bottom:0px; 
+}
+
+#nave{
+    text-align:center;
+    position:fixed;
+    top:10%;
+    width:100%;
+    height:20%;
+}
+#nave img{
+    height:100%;
+}
+
+#cpanel{}
+
+#hidem,#showm{
+    display:none;
+}
+
+.manual {
+	display:inline-block;         
+    width: 125%;         
+    position: fixed;
+    top: 5%;
+    left: 85%;
+}
+
+.manual a{
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+.reset {
+    display:inline-block;        
+    width: 125%;          
+    position: fixed;
+    top: 20%;
+    left: 86%;
+}
+
+.reset a{
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+.parar {
+    display:inline-block;        
+    width: 125%;           
+    position: fixed;
+    top: 35%;
+    left: 86%;
+}
+
+.parar a{
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+.manual-usuario {
+    display:inline-block;         
+    height: 60%;  
+    position: fixed; 
+    top: 15%;
+    margin: auto;
+    right: 0%;
+    left: 0%;
+ }
+
+.volver {
+    display:inline-block;     
+    width: 125%;          
+    position: fixed;
+    top: 5%;
+    left: 85%;
+}
+
+.volver a{
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+#luna  {
+    display:inline-block;         
+    width: 30%;    
+    position: fixed;
+    bottom: 0%;
+    margin: auto;
+    right: 0%;
+    left: 0%;
+}
+
+
+#parar {
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+#reset {
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+#manual {
+    padding: 20px;
+    background-color: red;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+}
+
+.velocidad {
+	display:inline-block;       
+    height: 14%;          
+    position: fixed;
+    top: 2%;
+    left: 5%;
+}
+
+#velocidad {
+	display:inline-block;       
+    height: 14%;          
+    position: fixed;
+    top: 8%;
+    left: 9%;
+}
+
+.altura {
+     
+    height: 14%;         
+    position: fixed;
+    top: 20%;
+    left: 5%;
+}
+#altura {
+      
+    height: 14%;         
+    position: fixed;
+    top: 26%;
+    left:9%;
+}
+
+.fuel {
+	display:inline-block;          
+    height: 14%;         
+    position: fixed;
+    top: 38%;
+    left: 5%;
+}
+#fuel {
+	display:inline-block;          
+    height: 14%;         
+    position: fixed;
+    top: 44%;
+    left: 9%;
+}
+
+
